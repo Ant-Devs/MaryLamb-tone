@@ -10,6 +10,10 @@ void setup() {
   lamb();
 }
 
+void loop() {
+  
+}
+
 void lamb(){
   tone(pin, e, 500);
   delay(500);
